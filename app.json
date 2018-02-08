@@ -1,0 +1,20 @@
+{
+  "name": "HackMePlease",
+  "description": "Show us what you can do!",
+  "keywords": [
+    "security",
+    "node.js"
+  ],
+  "success_url": "/login",
+  "scripts": {
+    "postdeploy": "node artifacts/db-reset.js"
+  },
+  "env": {
+    "NODE_ENV": {
+      "value": "PRODUCTION"
+    }
+  },
+  "addons": [
+    "mongolab:sandbox"
+  ]
+}
