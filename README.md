@@ -4,7 +4,7 @@ Being lightweight, fast, and scalable, Node.js is becoming a widely adopted plat
 
 
 ### Do it!
-[A Vulnerable Node.js App for Ninjas](http://xxx.herokuapp.com/) to exploit, toast, and fix.
+[Click here](http://hackmeplease.herokuapp.com/) to exploit, toast, and fix.
 
 ##### Default user accounts
 The database comes pre-populated with these user accounts created as part of the seed data -
@@ -21,7 +21,7 @@ Please follow these steps to setup and run it locally -
 
 * Clone the github repository
 ```
-git clone https://github.com/XXX/HackMePlease.git
+git clone https://github.com/streichsbaer/HackMePlease.git
 ```
 
 *go to the directory

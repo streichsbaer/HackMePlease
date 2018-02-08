@@ -49,6 +49,6 @@
     "should": "^8.3.1",
     "zaproxy": "^0.2.0"
   },
-  "repository": "https://github.com/XXX/NodejsGoat",
+  "repository": "https://github.com/streichsbaer/NodejsGoat",
   "license": "Apache 2.0"
 }
