@@ -2,10 +2,6 @@
 
 Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. 
 
-
-### Do it!
-[Click here](http://hackmeplease.herokuapp.com/) to exploit, toast, and fix.
-
 ##### Default user accounts
 The database comes pre-populated with these user accounts created as part of the seed data -
 * Admin Account - u:admin p:Admin_123
@@ -24,7 +20,7 @@ Please follow these steps to setup and run it locally -
 git clone https://github.com/streichsbaer/HackMePlease.git
 ```
 
-*go to the directory
+* go to the directory
 ```
 cd HackMePlease
 ```
