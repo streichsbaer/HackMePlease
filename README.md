@@ -1,7 +1,5 @@
 # HackMePlease
 
-[![GuardRails badge](https://badges.production.guardrails.io/streichsbaer/HackMePlease.svg)](https://www.guardrails.io)
-
 Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. 
 
 ##### Default user accounts
